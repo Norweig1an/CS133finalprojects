@@ -1,8 +1,11 @@
 # CS133 Project: Neural network implementation
 
+CS133_group_project
 ===================
 
-Six fantastic image operations in parallel implementation
+Multi-layer networks include the following types of layers:
+1. K single-layer networks
+2. A softmax regression output layer.
 
 Compile the project
 ===================
