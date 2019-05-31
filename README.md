@@ -1,5 +1,3 @@
-# CS133 Project: Neural network implementation
-
 CS133_group_project
 ===================
 
