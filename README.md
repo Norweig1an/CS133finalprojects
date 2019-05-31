@@ -1,3 +1,5 @@
+# CS133 Project: Neural network implementation
+
 CS133_group_project
 ===================
 
@@ -15,3 +17,20 @@ File Location
 	Source Code:   All source codes are under "src" folder.
 	Header File:   All include header files are under include.
 	Eigen package: All Eigen files.
+
+Usage Example
+===================
+
+Development Setup
+===================
+
+Meta
+===================
+罗盛成 34038083 luoshch@shanghaitech.edu.cn
+
+Contributing
+===================
+1. https://skymind.ai/wiki/neural-network
+2. https://deeplearning4j.org/cn/multinetwork
+3. http://www.tensorfly.cn/tfdoc/tutorials/mnist_download.html
+4. https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/79017786
