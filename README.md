@@ -1,5 +1,3 @@
-# CS133 Project: Neural network implementation
-
 CS133_group_project
 ===================
 
@@ -26,7 +24,7 @@ Development Setup
 
 Meta
 ===================
-罗盛成 34038083 luoshch@shanghaitech.edu.cn
+34038083
 
 Contributing
 ===================
